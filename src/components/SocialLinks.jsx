@@ -2,6 +2,8 @@ import React from "react";
 import { FaGithub, FaLinkedin } from "react-icons/fa";
 import { HiOutlineMail } from "react-icons/hi";
 import { BsFillPersonLinesFill } from "react-icons/bs";
+import "../components/styles.css"
+
 
 const SocialLinks = () => {
     const links = [
@@ -40,14 +42,14 @@ const SocialLinks = () => {
                     Resume <BsFillPersonLinesFill size={30} />
                 </>
             ),
-            href: "/Vishal_Resume.pdf",
+            href: "/Vishal_CV.pdf",
             style: "rounded-br-md",
             download: true,
         },
     ];
 
     return (
-        <div className="md:fixed top-[65%]  left-0 sm:flex flex-col sm:top-[35%] absolute">
+        <div className="md:fixed top-[65%]  left-0 sm:flex flex-col sm:top-[35%] absolute sidebar">
             <ul>
                 {links.map(({ id, child, href, style, download }) => (
                     <li

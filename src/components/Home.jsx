@@ -18,7 +18,7 @@ const Home = () => {
                         Hi! I am a
                         <Typewriter
                             options={{
-                                strings: ['Software Engineer', 'Frontend Developer'],
+                                strings: ['Software Engineer', 'Fullstack Developer'],
                                 autoStart: true,
                                 loop: true,
                             }}
@@ -43,11 +43,11 @@ const Home = () => {
                             </span>
                         </Link>
                         <a
-                            href="/Vishal_CV.pdf"
+                            href="/Vishal_Resume.pdf"
                             smooth={true}
                             duration={500}
                             className="group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer"
-                            download={"/Vishal_CV.pdf"}
+                            download={"/Vishal_Resume.pdf"}
                         >
                             Resume
                             <span className="group-hover:rotate-90 duration-300">

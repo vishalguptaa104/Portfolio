@@ -15,13 +15,13 @@ const About = () => {
                 </div>
 
                 <p className="text-xl mt-20 aboutp tp">
-                    Hi, My name is Vishal Gupta and I am a Software Engineer currently residing in Pune, India. With a Bachelor's degree in Computer Science Engineering, I have gained invaluable knowledge and expertise in the field of software development.
+                    Hi, My name is Vishal Gupta and I am a Software Engineer currently residing in Noida, India. With a Bachelor's degree in Computer Science Engineering, I have gained invaluable knowledge and expertise in the field of software development.
                 </p>
 
                 <br />
 
                 <p className="text-xl aboutp">
-                    I have had the privilege of working with some exceptional professionals at <b>LTIMindtree</b>. As a Frontend Developer, I am particularly drawn to web applications and I am eager to put my skills to use in this area. My technical proficiencies include expertise in Html, CSS, Javascript, ReactJs, Git, Python, and C++. I am also proficient in Data Structures and Algorithms, which enables me to develop efficient and robust solutions.
+                    I have had the privilege of working with some exceptional professionals at <b>LTIMindtree</b>. As a Frontend Developer, I am particularly drawn to web applications and I am eager to put my skills to use in this area. My technical proficiencies include expertise in Html, CSS, Javascript, MongoDB, ReactJs, Express, Python, and Nodejs. I am also proficient in Data Structures and Algorithms, which enables me to develop efficient and robust solutions.
                     <br></br>
                     <br />
 

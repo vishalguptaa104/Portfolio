@@ -5,10 +5,10 @@ import html from "../assets/html.png";
 import css from "../assets/css.png";
 import javascript from "../assets/javascript.png";
 import reactImage from "../assets/react.png";
-import nextjs from "../assets/nextjs.png";
+import nodejs from "../assets/node.png";
 import sql from "../assets/SQL.png";
-import github from "../assets/github.png";
-import tailwind from "../assets/tailwind.png";
+import Expressjs from "../assets/Express.png";
+import MongoDB from "../assets/MongoDB.png";
 import python from "../assets/python.png";
 
 const Experience = () => {
@@ -39,14 +39,14 @@ const Experience = () => {
         },
         {
             id: 5,
-            src: tailwind,
-            title: "Tailwind",
+            src: MongoDB,
+            title: "MongoDB",
             style: "shadow-sky-400",
         },
         {
             id: 6,
-            src: nextjs,
-            title: "Next JS",
+            src: nodejs,
+            title: "Node JS",
             style: "shadow-white",
         },
         {
@@ -57,8 +57,8 @@ const Experience = () => {
         },
         {
             id: 8,
-            src: github,
-            title: "GitHub",
+            src: Expressjs,
+            title: "Express",
             style: "shadow-gray-400",
         },
         {
